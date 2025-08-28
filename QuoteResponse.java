@@ -17,10 +17,10 @@ public class QuoteResponse {
         this.message = message;
     }
 
-    // Getters (Jackson needs getters to serialize)
     public String getQuoteId() { return quoteId; }
     public double getMonthlyPremium() { return monthlyPremium; }
     public LocalDate getValidTill() { return validTill; }
     public String getStatus() { return status; }
     public String getMessage() { return message; }
 }
+
