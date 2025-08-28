@@ -5,7 +5,7 @@ import com.project.api.model.QuoteRequest;
 
 @Service
 public class QuoteService {
-    // Simple business rule; tweak as you like
+    // business rule
 	public double calculatePremium(QuoteRequest request) {
         int registrationYear = request.getRegistrationYear();
         int currentYear = java.time.LocalDate.now().getYear();
@@ -27,3 +27,4 @@ public class QuoteService {
         return basePremium + ageFactor + wheelFactor;
     }
 }
+
