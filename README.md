@@ -20,4 +20,11 @@ This project is part of my journey to learn **Cloud Engineering and DevOps** con
 - **Framework:** Spring Boot  
 - **Containerization:** Docker  
 - **Orchestration:** Kubernetes  
-- **Build Tool:** Maven  
+- **Build Tool:** Maven
+
+## API Response
+<img width="681" height="560" alt="image" src="https://github.com/user-attachments/assets/c3bd18e9-2e18-4ee8-84b5-5eec6c7f9fe7" />
+<img width="752" height="545" alt="image" src="https://github.com/user-attachments/assets/5e91f3c0-cc31-432a-a95d-1cbebb5c5e29" />
+<img width="753" height="604" alt="image" src="https://github.com/user-attachments/assets/256315df-4663-425b-bcff-7460a3b2c6f4" />
+
+
