@@ -1,4 +1,4 @@
-# my_api
+# Quote Insurance API
 _A Spring Boot microservice containerized with Docker and deployed on Kubernetes_  
 
 ## Overview  
